@@ -1,1 +1,1 @@
-# Java Codes (Virtual Imternship)
+# Java Codes (Virtual Internship)
